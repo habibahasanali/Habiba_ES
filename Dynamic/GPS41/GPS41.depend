@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691257945 source:c:\users\irepair\desktop\gps41\main.c
+	<stdio.h>
+	<stdlib.h>
+
